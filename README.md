@@ -1,2 +1,5 @@
 # ClauExplorer
-ClauExplorer with ClauText.
+  ClauExplorer with ClauText.
+# ToDo
+  ClauShellMode?
+  
