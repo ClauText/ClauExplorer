@@ -407,7 +407,7 @@ protected:
 			std::string fileName(_fileName.c_str());
 
 			global.Remove();
-			wiz::load_data::LoadData::LoadDataFromFile3(fileName, global, -1, 0);
+			wiz::load_data::LoadData::LoadDataFromFile5_2(fileName, global, 0, 0);
 			now = &global;
 
 			RefreshTable(now);
