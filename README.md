@@ -1,5 +1,5 @@
 # ClauExplorer
-  ClauExplorer with ClauText.
+  ClauExplorer with ClauText and wxwidgets
 # ToDo
   ClauShellMode?
   
